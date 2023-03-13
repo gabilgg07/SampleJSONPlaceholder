@@ -1,0 +1,14 @@
+{
+  "name": "testforapijson",
+  "version": "1.0.0",
+  "description": "Test Fake Json Rest Api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
